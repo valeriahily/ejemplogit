@@ -1,0 +1,54 @@
+﻿commit e52e9b6b36b8c887e934d7dbcbfc8d38d3011c57
+
+Author: valeriahily <valeria.riodel@hotmail.com>
+
+Date:   Tue Jul 4 11:38:36 2017 -0600
+
+    
+Integracion de bootstrap
+
+
+
+
+commit cbe609cedfbf2baeceb3eccee77c8f8709904b1e
+
+Author: valeriahily <valeria.riodel@hotmail.com>
+
+Date:   Tue Jul 4 11:25:52 2017 -0600
+
+  
+Se agregó pie de pagina principal
+
+
+
+
+commit 5368880467ab418b1dec7bb6d42cab32f083dbc5
+
+Author: valeriahily <valeria.riodel@hotmail.com>
+
+Date:   Tue Jul 4 11:21:40 2017 -0600
+
+  
+Se agrego imagen
+
+
+
+commit f268f34a0ca06ea9f500042297ea34f5941cc928
+
+Author: valeriahily <valeria.riodel@hotmail.com>
+
+Date:   Tue Jul 4 11:15:30 2017 -0600
+
+   
+Se agrego titulo a la pagina
+
+
+
+commit fd3dd561d889c2135d1a1874090e29844f2fad11
+
+Author: valeriahily <valeria.riodel@hotmail.com>
+
+Date:   Tue Jul 4 11:08:35 2017 -0600
+
+   
+Estructura inicial del proyecto
